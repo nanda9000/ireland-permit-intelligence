@@ -1,0 +1,116 @@
+nationality,issued,refused,total_decisions,approval_rate,refusal_rate,pct_of_all_issued,continent
+Afghanistan,3,0,3,100.0,0.0,0.0,Other
+Albania,12,2,14,85.7,14.3,0.1,Europe
+Algeria,15,1,16,93.8,6.2,0.1,Africa
+Angola,1,0,1,100.0,0.0,0.0,Other
+Argentina,54,12,66,81.8,18.2,0.3,Americas
+Armenia,3,0,3,100.0,0.0,0.0,Other
+Australia,57,3,60,95.0,5.0,0.4,Other
+Azerbaijan,7,0,7,100.0,0.0,0.0,Other
+Bangladesh,108,22,130,83.1,16.9,0.7,Asia
+Belarus,4,0,4,100.0,0.0,0.0,Europe
+Belize,1,1,2,50.0,50.0,0.0,Other
+Bolivia,44,7,51,86.3,13.7,0.3,Other
+Bosnia and Herzegovina,3,0,3,100.0,0.0,0.0,Other
+Botswana,56,18,74,75.7,24.3,0.4,Other
+Brazil,1898,315,2213,85.8,14.2,12.2,Americas
+Cambodia,3,0,3,100.0,0.0,0.0,Other
+Cameroon,10,3,13,76.9,23.1,0.1,Africa
+Canada,68,7,75,90.7,9.3,0.4,Americas
+Chile,97,13,110,88.2,11.8,0.6,Other
+China,909,126,1035,87.8,12.2,5.9,Asia
+Colombia,49,2,51,96.1,3.9,0.3,Americas
+Congo,1,0,1,100.0,0.0,0.0,Other
+"Congo, The Democratic Republic of the",2,0,2,100.0,0.0,0.0,Other
+Costa Rica,17,3,20,85.0,15.0,0.1,Other
+Cote d'Ivoire,1,0,1,100.0,0.0,0.0,Other
+Cuba,1,0,1,100.0,0.0,0.0,Other
+Dominica,1,0,1,100.0,0.0,0.0,Other
+Ecuador,4,1,5,80.0,20.0,0.0,Other
+Egypt,97,5,102,95.1,4.9,0.6,Africa
+El Salvador,27,3,30,90.0,10.0,0.2,Other
+Eritrea,1,0,1,100.0,0.0,0.0,Other
+Ethiopia,3,3,6,50.0,50.0,0.0,Africa
+Georgia,13,2,15,86.7,13.3,0.1,Europe
+Ghana,84,21,105,80.0,20.0,0.5,Africa
+Guatemala,9,1,10,90.0,10.0,0.1,Other
+Guinea,1,0,1,100.0,0.0,0.0,Other
+Guyana,3,0,3,100.0,0.0,0.0,Other
+Honduras,7,2,9,77.8,22.2,0.0,Other
+Hong Kong,2,0,2,100.0,0.0,0.0,Other
+India,4603,414,5017,91.7,8.3,29.6,Asia
+Indonesia,17,14,31,54.8,45.2,0.1,Asia
+"Iran, Islamic Republic of",34,2,36,94.4,5.6,0.2,Other
+Iraq,6,2,8,75.0,25.0,0.0,Other
+Israel,76,0,76,100.0,0.0,0.5,Other
+Jamaica,1,0,1,100.0,0.0,0.0,Other
+Japan,79,0,79,100.0,0.0,0.5,Asia
+Jordan,16,5,21,76.2,23.8,0.1,Other
+Kazakhstan,10,0,10,100.0,0.0,0.1,Other
+Kenya,79,21,100,79.0,21.0,0.5,Africa
+"Korea, Republic of",34,3,37,91.9,8.1,0.2,Other
+Kosova,4,3,7,57.1,42.9,0.0,Other
+Kyrgyzstan,14,0,14,100.0,0.0,0.1,Other
+Lebanon,17,0,17,100.0,0.0,0.1,Other
+Lesotho,7,1,8,87.5,12.5,0.0,Other
+Liberia,1,0,1,100.0,0.0,0.0,Other
+Libya,3,1,4,75.0,25.0,0.0,Other
+"Macedonia, The Former Yugoslav Republic of",3,0,3,100.0,0.0,0.0,Other
+Malawi,8,1,9,88.9,11.1,0.1,Other
+Malaysia,215,15,230,93.5,6.5,1.4,Asia
+Mauritius,17,3,20,85.0,15.0,0.1,Africa
+Mexico,200,26,226,88.5,11.5,1.3,Americas
+"Moldova, Republic of",7,0,7,100.0,0.0,0.0,Other
+Mongolia,48,18,66,72.7,27.3,0.3,Other
+Morocco,32,4,36,88.9,11.1,0.2,Africa
+Myanmar,9,0,9,100.0,0.0,0.1,Asia
+Namibia,2,0,2,100.0,0.0,0.0,Other
+Nepal,251,37,288,87.2,12.8,1.6,Asia
+New Zealand,35,7,42,83.3,16.7,0.2,Other
+Nicaragua,3,0,3,100.0,0.0,0.0,Other
+Nigeria,364,51,415,87.7,12.3,2.3,Africa
+Pakistan,745,87,832,89.5,10.5,4.8,Asia
+Palestine,14,0,14,100.0,0.0,0.1,Other
+Panama,13,2,15,86.7,13.3,0.1,Other
+Papua New Guinea,1,0,1,100.0,0.0,0.0,Other
+Paraguay,9,2,11,81.8,18.2,0.1,Other
+Peru,10,1,11,90.9,9.1,0.1,Other
+Philippines,2347,233,2580,91.0,9.0,15.1,Asia
+Poland,1,0,1,100.0,0.0,0.0,Other
+Republic of Serbia,2,0,2,100.0,0.0,0.0,Other
+Russian Federation,45,3,48,93.8,6.2,0.3,Other
+Rwanda,3,2,5,60.0,40.0,0.0,Other
+Saint Kitts and Nevis,6,0,6,100.0,0.0,0.0,Other
+Saint Lucia,5,1,6,83.3,16.7,0.0,Other
+Saudi Arabia,3,1,4,75.0,25.0,0.0,Other
+Senegal,1,1,2,50.0,50.0,0.0,Other
+Serbia,4,0,4,100.0,0.0,0.0,Europe
+Serbia and Montenegro,1,0,1,100.0,0.0,0.0,Other
+Seychelles,1,0,1,100.0,0.0,0.0,Other
+Sierra Leone,2,0,2,100.0,0.0,0.0,Other
+Singapore,11,0,11,100.0,0.0,0.1,Other
+Somalia,1,0,1,100.0,0.0,0.0,Other
+South Africa,613,78,691,88.7,11.3,3.9,Africa
+Sri Lanka,380,33,413,92.0,8.0,2.4,Asia
+Sudan,84,0,84,100.0,0.0,0.5,Africa
+Swaziland,5,1,6,83.3,16.7,0.0,Other
+Syrian Arab Republic,10,1,11,90.9,9.1,0.1,Other
+Taiwan,47,5,52,90.4,9.6,0.3,Other
+Tajikistan,2,1,3,66.7,33.3,0.0,Other
+"Tanzania, United Republic of",1,2,3,33.3,66.7,0.0,Other
+Thailand,56,9,65,86.2,13.8,0.4,Asia
+Togo,1,0,1,100.0,0.0,0.0,Other
+Trinidad and Tobago,5,0,5,100.0,0.0,0.0,Other
+Tunisia,13,1,14,92.9,7.1,0.1,Africa
+Türkiye,111,5,116,95.7,4.3,0.7,Other
+Turkmenistan,1,0,1,100.0,0.0,0.0,Other
+Uganda,26,6,32,81.2,18.8,0.2,Africa
+Ukraine,84,2,86,97.7,2.3,0.5,Europe
+United Kingdom,1,0,1,100.0,0.0,0.0,Other
+United States of America,475,19,494,96.2,3.8,3.1,Other
+Uruguay,5,0,5,100.0,0.0,0.0,Other
+Uzbekistan,8,1,9,88.9,11.1,0.1,Other
+Venezuela,8,0,8,100.0,0.0,0.1,Americas
+Vietnam,52,9,61,85.2,14.8,0.3,Asia
+Zambia,5,1,6,83.3,16.7,0.0,Other
+Zimbabwe,446,74,520,85.8,14.2,2.9,Africa

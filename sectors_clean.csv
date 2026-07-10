@@ -1,0 +1,27 @@
+sector_raw,jan,feb,mar,apr,may,total,sector_code,sector,pct_of_total
+No Sector Entered,26,11,21,26,35,119,,No Sector Entered,0.8
+"A - Agriculture, Forestry & Fishing",170,131,133,326,340,1100,A,"Agriculture, Forestry & Fishing",7.1
+B - Mining & Quarrying,8,23,15,9,20,75,B,Mining & Quarrying,0.5
+C - All Other Manufacturing,175,148,151,146,109,729,C,All Other Manufacturing,4.7
+C - Manufacture of Chemicals & Pharmaceuticals,59,37,41,37,50,224,C,Manufacture of Chemicals & Pharmaceuticals,1.4
+"C - Manufacture of Computers, Electronics & Optical Equipment",42,31,39,31,37,180,C,"Manufacture of Computers, Electronics & Optical Equipment",1.2
+"C - Manufacture of Food, Drink & Tobacco",34,47,29,69,160,339,C,"Manufacture of Food, Drink & Tobacco",2.2
+C - Manufacture of Medical Devices,22,31,21,18,15,107,C,Manufacture of Medical Devices,0.7
+D - Electricity & Gas & Air Conditioning Supply,36,27,25,38,28,154,D,Electricity & Gas & Air Conditioning Supply,1.0
+E - Water Supply - Sewerage Waste Management & Remedial Activities,10,2,7,7,9,35,E,Water Supply - Sewerage Waste Management & Remedial Activities,0.2
+F - Construction,188,162,197,215,226,988,F,Construction,6.4
+G - Wholesale & Retail Trade,69,51,61,44,45,270,G,Wholesale & Retail Trade,1.7
+H - Transport & Storage,142,160,193,119,124,738,H,Transport & Storage,4.8
+I - Accommodation & Food Services Activities,334,338,313,362,254,1601,I,Accommodation & Food Services Activities,10.3
+J - Information & Communication Activities,408,297,299,270,339,1613,J,Information & Communication Activities,10.4
+K - Financial & Insurance Activities,102,128,130,84,120,564,K,Financial & Insurance Activities,3.6
+L - Real Estate Activities,9,0,3,2,1,15,L,Real Estate Activities,0.1
+"M - All other Professional, Scientific & Technical Activities",63,39,55,65,77,299,M,"All other Professional, Scientific & Technical Activities",1.9
+"M - Professional, Scientific & Technical Activities of Head Offices, Management Consultancy Services",77,55,52,65,60,309,M,"Professional, Scientific & Technical Activities of Head Offices, Management Consultancy Services",2.0
+N - Administrative & Support Service Activities,13,14,13,10,7,57,N,Administrative & Support Service Activities,0.4
+O - Public Administration & Defence,5,0,2,3,2,12,O,Public Administration & Defence,0.1
+P - Education,56,39,39,51,30,215,P,Education,1.4
+Q - Health & Social Work Activities,822,769,839,928,846,4204,Q,Health & Social Work Activities,27.1
+"R - Arts, Entertainment and Recreation",52,44,46,57,73,272,R,"Arts, Entertainment and Recreation",1.8
+S - Other Service Activities,292,211,191,347,273,1314,S,Other Service Activities,8.5
+T - Domestic - Activities of Households as Employers,0,1,0,1,0,2,T,Domestic - Activities of Households as Employers,0.0
